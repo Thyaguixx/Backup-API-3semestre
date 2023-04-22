@@ -42,6 +42,13 @@ body, html {
   box-shadow: 0 5px 10px 0px rgba(0, 0, 0, 0.2);
 }
 
+.wrap-input-vts {
+  width: 100%;
+  position: relative;
+  border-bottom: 2px solid rgb(75, 75, 75);
+  margin-bottom: 37px;
+}
+
 .vts-form {
   width: 100%;
 }
